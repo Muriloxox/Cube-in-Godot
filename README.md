@@ -1,6 +1,8 @@
 # Cube-in-Godot
 Código de aplicação da álgebra linear na computação gráfica por meio da engine Godot
 
+[Acesse o site aqui](https://muriloxox.github.io/Cube-in-Godot/)
+
 Manipule o cubo em tempo real utilizando as seguintes teclas:
 
 ### Rotação
@@ -27,5 +29,3 @@ A escala aumenta ou diminui o tamanho do cubo ao longo de um eixo específico.
 | <kbd>R</kbd> | **Reseta** todas as transformações, retornando o cubo à sua posição, rotação e escala originais. |
 
 ---
-
-[Acesse o site aqui](https://muriloxox.github.io/Cube-in-Godot/)
